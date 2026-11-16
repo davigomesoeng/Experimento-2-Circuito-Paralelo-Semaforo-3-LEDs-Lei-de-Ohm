@@ -1,0 +1,1 @@
+# Experimento-2-Circuito-Paralelo-Semaforo-3-LEDs-Lei-de-Ohm
